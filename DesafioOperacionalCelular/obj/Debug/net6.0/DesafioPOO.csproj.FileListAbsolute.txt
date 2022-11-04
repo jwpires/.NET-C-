@@ -1,0 +1,15 @@
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\bin\Debug\net6.0\DesafioPOO.exe
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\bin\Debug\net6.0\DesafioPOO.deps.json
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\bin\Debug\net6.0\DesafioPOO.dll
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\bin\Debug\net6.0\DesafioPOO.pdb
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.dll
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\refint\DesafioPOO.dll
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.pdb
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\obj\Debug\net6.0\ref\DesafioPOO.dll

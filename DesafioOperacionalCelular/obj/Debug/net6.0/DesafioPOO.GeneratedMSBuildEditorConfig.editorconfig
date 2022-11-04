@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = DesafioProjetoHospedagem
-build_property.ProjectDir = d:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioSistemaDeHospedagemHotel\
+build_property.RootNamespace = DesafioPOO
+build_property.ProjectDir = D:\Cursos em Geral\Curso .NET C#\Projetos .NET C#\DesafioOperacionalCelular\
